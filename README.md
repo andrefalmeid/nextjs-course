@@ -7,7 +7,7 @@
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://devsoutinho-curso-nextjs-alura-01.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://nextjs-course-n7tfln1qw-andref-almeidas-projects.vercel.app/).
 
 ## 🛠️ Abrir e rodar o projeto
 
